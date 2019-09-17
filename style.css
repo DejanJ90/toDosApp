@@ -1,0 +1,10 @@
+.todos-box {
+    position: fixed;
+    top: 30%;
+    left:40%;
+    width: 20%;
+}
+
+.li {
+    font-size: 1rem;
+}
